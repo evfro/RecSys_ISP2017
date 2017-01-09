@@ -6,3 +6,5 @@ Slides can be found at:
 https://1drv.ms/f/s!AmD2qFcSt8Moj9owaM-cQr9asoM2Ig
 
 
+Installation:
+pip install --upgrade git+https://github.com/Evfro/polara.git@develop#egg=polara
